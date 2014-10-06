@@ -1,0 +1,126 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: Oswald
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011-12 by vernon adams. All rights reserved.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.002; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w "g"
+    Vendor: vernon adams
+    Vendor url: newtypography.co.uk
+    Designer: vernon adams
+    Designer url: newtypography.co.uk
+    Glyph count: 426
+    Character count: 416
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Oswald
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011-12 by vernon adams. All rights reserved.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.002; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w "g"
+    Vendor: vernon adams
+    Vendor url: newtypography.co.uk
+    Designer: vernon adams
+    Designer url: newtypography.co.uk
+    Glyph count: 419
+    Character count: 411
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Oswald
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011-12 by vernon adams. All rights reserved.
+    License url: http://scripts.sil.org/OFL
+    Version: Version ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w "g"
+    Vendor: vernon adams
+    Vendor url: newtypography.co.uk
+    Designer: vernon adams
+    Designer url: newtypography.co.uk
+    Glyph count: 417
+    Character count: 412
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
